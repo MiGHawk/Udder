@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // MiG Comment
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        // MiG Comment
+    }
 
 }
 
