@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     override func viewDidDisappear(_ animated: Bool) {
         // MiG Comment
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        // MiG Comment
+    }
 
 }
 
